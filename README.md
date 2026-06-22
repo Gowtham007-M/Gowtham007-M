@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003666&height=220&section=header&text=GOWTHAM%20M&fontColor=00ffcc&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Google%20Cloud&descAlignY=55&descSize=20&descColor=0088ff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=GOWTHAM%20M&fontColor=ff007f&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Google%20Cloud&descAlignY=55&descSize=20&descColor=00e5ff" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=640&lines=%3E_System.init();%3E_Loading+Neural+Networks...;%3E_Deploying+to+Google+Cloud...;%3E_Status:+Online!" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FF007F&center=true&vCenter=true&width=640&lines=%3E_System.init();%3E_Loading+Neural+Networks...;%3E_Deploying+to+Google+Cloud...;%3E_Status:+Online!" alt="typing animation" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Cloud-Professional_ML_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/FOCUS-Machine_Learning-00ffcc?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/STATUS-Ready_for_Impact-0088FF?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-Machine_Learning-ff007f?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-Ready_for_Impact-00e5ff?style=for-the-badge&logo=terminal&logoColor=black" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 | Certification                          | Issuer             | Valid Until |
 | -------------------------------------- | ------------------ | ----------- |
 | Professional Machine Learning Engineer | Google Cloud       | Mar 2028    |
-| Data Science & Big Data Analytics      | Dr. Ganesh Academy | Life Time   |
+| Data Science & Big Data Analytics      | Dr. Ganesh Academy | Lifetime    |
 
 ## Core Projects
 
@@ -69,8 +69,8 @@ IoT-integrated home automation system with sensor integration and intelligent co
 ## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gowtham007-M&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffcc&icon_color=0088ff&text_color=c9d1d9&bg_color=0d1117" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham007-M&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffcc&text_color=c9d1d9&bg_color=0d1117" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gowtham007-M&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham007-M&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 ## Technical Skills
