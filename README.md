@@ -586,27 +586,22 @@ Mentored students in:
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Gowtham007-M&show_icons=true&hide_border=true&bg_color=0D2818&title_color=E8B04B&icon_color=C17A3E&text_color=EDEAE0&include_all_commits=true"
-height="170"
-alt="Gowtham GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham007-M&layout=compact&hide_border=true&bg_color=0D2818&title_color=E8B04B&text_color=EDEAE0&langs_count=8"
-height="170"
-alt="Gowtham Top Languages"
-/>
-
-<br>
-
-<img
-src="https://streak-stats.demolab.com/?user=Gowtham007-M&hide_border=true&background=0D2818&ring=C17A3E&fire=E8B04B&currStreakLabel=E8B04B&sideLabels=EDEAE0&currStreakNum=EDEAE0&sideNums=EDEAE0&dates=EDEAE0"
-height="180"
-alt="GitHub Streak"
-/>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Gowtham007-M&show_icons=true&hide_border=true&bg_color=0D2818&title_color=E8B04B&icon_color=C17A3E&text_color=EDEAE0&include_all_commits=true" 
+    height="170" 
+    alt="Gowtham GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham007-M&layout=compact&hide_border=true&bg_color=0D2818&title_color=E8B04B&text_color=EDEAE0&langs_count=8" 
+    height="170" 
+    alt="Gowtham Top Languages" 
+  />
+  <br/>
+  <img 
+    src="https://streak-stats.demolab.com/?user=Gowtham007-M&hide_border=true&background=0D2818&ring=C17A3E&fire=E8B04B&currStreakLabel=E8B04B&sideLabels=EDEAE0&currStreakNum=EDEAE0&sideNums=EDEAE0&dates=EDEAE0" 
+    height="180" 
+    alt="GitHub Streak" 
+  />
 </div>
 
 ---
