@@ -1,0 +1,61 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: >
+            username=${{ github.repository_owner }}
+            &show_icons=true
+            &hide_border=true
+            &theme=transparent
+            &title_color=22D3EE
+            &icon_color=22D3EE
+            &text_color=CBD5E1
+            &ring_color=22D3EE
+          path: profile/stats.svg
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: >
+            username=${{ github.repository_owner }}
+            &layout=compact
+            &hide_border=true
+            &theme=transparent
+            &title_color=22D3EE
+            &text_color=CBD5E1
+            &langs_count=8
+          path: profile/top-langs.svg
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update GitHub stats"
+            git push
+          fi
