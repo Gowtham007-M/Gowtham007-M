@@ -1,59 +1,64 @@
-<!-- ========================================================= -->
-
-<!--                  GOWTHAM M — GITHUB README                -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<!-- Animated Header -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                     ANIMATED HEADER                        -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:111827,75:164E63,100:06B6D4&height=260&section=header&text=GOWTHAM%20M&fontSize=58&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20AI%20Engineering&descAlignY=58&descSize=18&descColor=CBD5E1"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,35:0F172A,65:164E63,100:06B6D4&height=280&section=header&text=GOWTHAM%20M&fontSize=62&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=MACHINE%20LEARNING%20%7C%20COMPUTER%20VISION%20%7C%20AI%20ENGINEERING&descAlignY=59&descSize=16&descColor=BAE6FD"
 width="100%"
 alt="Gowtham M"
 />
 
-<!-- Animated Typing -->
+<br>
 
-<a href="https://github.com/Gowtham007-M">
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                    TYPING ANIMATION                        -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=%3E+Building+intelligent+systems...;%3E+Computer+Vision+%2B+Machine+Learning;%3E+Turning+data+into+decisions;%3E+From+models+to+real-world+systems;%3E+Research.+Engineer.+Deploy."
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=900&height=60&lines=%3E+Building+intelligent+systems...;%3E+Computer+Vision+%2B+Machine+Learning;%3E+Turning+data+into+decisions;%3E+From+models+to+real-world+systems;%3E+Research.+Engineer.+Deploy.;%3E+Data+%E2%86%92+Models+%E2%86%92+Systems"
 alt="Typing animation"
 />
 
-</a>
-
-<br>
-
-<!-- Status -->
-
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Engineering-06B6D4?style=for-the-badge&logo=python&logoColor=white" alt="AI ML"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-Real--Time-0891B2?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/Cloud-Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud"/>
-<img src="https://img.shields.io/badge/Research-Applied%20AI-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="Research"/>
-
 <br><br>
 
-<!-- Social -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                       BADGES                               -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-ENGINEERING-06B6D4?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-REAL--TIME-0891B2?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/CLOUD-VERTEX%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/RESEARCH-APPLIED%20AI-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+
+<br><br>
 
 <a href="https://github.com/Gowtham007-M">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://linkedin.com/in/gowtham-off">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://off-portfolio-lemon.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="mailto:40eecgowtham@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Gowtham007-M&label=PROFILE%20VIEWS&color=06B6D4&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Gowtham007-M&label=PROFILE%20VIEWS&color=22D3EE&style=flat-square" />
 
 </div>
 
@@ -78,102 +83,98 @@ class GowthamM:
         "IoT + Edge Intelligence"
     ]
 
-    currently = [
-        "Building real-world AI systems",
-        "Researching uncertainty-aware ML",
-        "Developing computer vision pipelines",
-        "Exploring scalable ML workflows",
-        "Engineering deployable AI systems"
-    ]
+    philosophy = "Data → Models → Systems → Impact"
 ```
 
-> **Data → Models → Software → Real-World Systems**
+> Building AI systems that are **precise, fast, deployable, and useful in the real world.**
 
-I build systems where machine learning is **one component of a larger engineering pipeline** — from data acquisition and feature engineering to inference, deployment, and monitoring.
+I work at the intersection of:
+
+```text
+DATA
+  ↓
+MACHINE LEARNING
+  ↓
+COMPUTER VISION
+  ↓
+SOFTWARE
+  ↓
+REAL-TIME SYSTEMS
+  ↓
+CLOUD / EDGE
+```
 
 ---
 
-# ⚡ Core Stack
+# ⚡ Engineering Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,html,css,opencv,tensorflow,gcp,docker,linux,git,github,arduino,mysql,postgres,mongodb&theme=dark&perline=9" />
+<img
+src="https://skillicons.dev/icons?i=python,c,cpp,js,react,html,css,opencv,tensorflow,gcp,docker,linux,git,github,arduino,mysql,postgres,mongodb&theme=dark&perline=9"
+alt="Technology Stack"
+/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-Neural%20Networks%20%7C%20Prediction%20%7C%20Anomaly%20Detection-06B6D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-OCR%20%7C%20Detection%20%7C%20Tracking-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data-Statistics%20%7C%20Pipelines%20%7C%20Feature%20Engineering-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud-GCP%20%7C%20Vertex%20AI%20%7C%20MLOps-4285F4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Edge-IoT%20%7C%20ESP32%20%7C%20Sensors-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML-Neural%20Networks%20%7C%20Prediction%20%7C%20Anomaly%20Detection-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/CV-OCR%20%7C%20Detection%20%7C%20Tracking-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/DATA-Statistics%20%7C%20Pipelines%20%7C%20Big%20Data-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/CLOUD-GCP%20%7C%20Vertex%20AI%20%7C%20MLOps-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/EDGE-IoT%20%7C%20ESP32%20%7C%20Sensors-16A34A?style=flat-square"/>
 
 </div>
 
 ---
 
-# 🧠 What I Actually Work On
-
-| Domain               | Engineering Focus                                                          |
-| :------------------- | :------------------------------------------------------------------------- |
-| **Machine Learning** | Neural Networks · Predictive Analytics · Anomaly Detection · Optimization  |
-| **Computer Vision**  | Object Detection · OCR · Tracking · Image Processing · Real-Time Inference |
-| **Data Science**     | Statistical Modeling · Feature Engineering · Data Pipelines · Big Data     |
-| **Cloud / MLOps**    | GCP · Vertex AI · Deployment · Monitoring · ML Workflows                   |
-| **Software**         | Python · C · C++ · JavaScript · React · Git                                |
-| **IoT / Edge**       | Arduino · ESP32 · Sensors · Hardware Integration                           |
-
-### My engineering pipeline
+# 🧠 What I Build
 
 ```text
-              REAL-WORLD PROBLEM
-                      │
-                      ▼
-              DATA ACQUISITION
-                      │
-                      ▼
-            CLEAN → TRANSFORM
-                      │
-                      ▼
-             FEATURE ENGINEERING
-                      │
-                      ▼
-              MODEL / ALGORITHM
-                      │
-             ┌────────┴────────┐
-             ▼                 ▼
-          EVALUATE          OPTIMIZE
-             │                 │
-             └────────┬────────┘
-                      ▼
-                APPLICATION
-                      │
-                      ▼
-             REAL-TIME INFERENCE
-                      │
-                      ▼
-             CLOUD / EDGE DEPLOY
+┌──────────────────────────────────────────────┐
+│              REAL-WORLD PROBLEM              │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│                    DATA                      │
+│       Collect → Clean → Transform            │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│                   MODEL                      │
+│       Train → Validate → Optimize            │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│                   SYSTEM                     │
+│        API → Application → Inference         │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│                 DEPLOYMENT                   │
+│             Cloud → Edge → Production        │
+└──────────────────────────────────────────────┘
 ```
+
+**The model is not the final product. The system is.**
 
 ---
 
 # 🚀 Featured Projects
-
-<div align="center">
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🚘 Automated Number Plate Recognition
+## 🚘 ANPR System
 
-Real-time computer vision pipeline for vehicle identification, number plate detection, OCR, and automated logging.
+Real-time vehicle monitoring and number plate recognition pipeline.
 
-**Stack**
-
-`Python` `OpenCV` `OCR` `Computer Vision`
-
-**Pipeline**
+### Pipeline
 
 ```text
 Camera
@@ -188,36 +189,40 @@ OCR
   ↓
 Validation
   ↓
-Data Logging
+Logging
 ```
+
+### Stack
+
+`Python` `OpenCV` `YOLO` `OCR`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎥 AI Face Tracking Camera
+## 🎥 AI Face Tracking
 
-Real-time face tracking system designed for live video conferencing and dynamic camera framing.
+Real-time face tracking and dynamic framing for live video systems.
 
-**Stack**
-
-`Python` `OpenCV` `ML Inference`
-
-**Pipeline**
+### Pipeline
 
 ```text
-Video Stream
+Video
   ↓
 Face Detection
   ↓
-Face Tracking
+Tracking
   ↓
 Position Estimation
   ↓
 Dynamic Framing
   ↓
-Live Output
+Output
 ```
+
+### Stack
+
+`Python` `OpenCV` `ML`
 
 </td>
 
@@ -229,19 +234,11 @@ Live Output
 
 ## 🏠 Smart Home Automation
 
-IoT-based automation proof-of-concept integrating sensors, embedded hardware, remote control, and intelligent control concepts.
+IoT proof-of-concept combining embedded hardware, sensors and intelligent control.
 
-**Stack**
+### Stack
 
-`Arduino` `ESP32` `IoT` `Sensors`
-
-**Focus**
-
-* Sensor integration
-* Embedded systems
-* Remote control
-* IoT architecture
-* ML integration concepts
+`Arduino` `ESP32` `Sensors` `IoT`
 
 </td>
 
@@ -249,63 +246,62 @@ IoT-based automation proof-of-concept integrating sensors, embedded hardware, re
 
 ## 🌧️ Cloudburst Prediction
 
-Research direction focused on fast cloudburst prediction using multimodal environmental data and uncertainty-aware machine learning.
+Research direction focused on fast cloudburst prediction using multimodal environmental data and uncertainty-aware ML.
 
-**Stack**
+### Stack
 
 `Deep Learning` `Knowledge Distillation` `Evidential Learning`
-
-**Focus**
-
-* Satellite data
-* Radar observations
-* Weather variables
-* Spatio-temporal modeling
-* Uncertainty estimation
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 🔬 Current Research
+# 🔬 Research
 
 ## Single-Pass Evidential Deep Learning
 
-The core research direction is building **efficient, uncertainty-aware prediction systems** rather than treating classification confidence as an afterthought.
+My research direction focuses on **efficient prediction + uncertainty estimation**.
 
 ```text
-       MULTIMODAL ENVIRONMENTAL DATA
-                    │
-        ┌───────────┼───────────┐
-        ▼           ▼           ▼
-     Satellite     Radar      Weather
-        │           │           │
-        └───────────┼───────────┘
-                    ▼
-          SPATIO-TEMPORAL MODEL
-                    │
-                    ▼
-          KNOWLEDGE DISTILLATION
-                    │
-                    ▼
+             MULTIMODAL DATA
+                   │
+       ┌───────────┼───────────┐
+       ▼           ▼           ▼
+   SATELLITE      RADAR      WEATHER
+       │           │           │
+       └───────────┼───────────┘
+                   ▼
+          SPATIO-TEMPORAL ML
+                   │
+                   ▼
+        KNOWLEDGE DISTILLATION
+                   │
+                   ▼
              STUDENT MODEL
-                    │
-                    ▼
-          EVIDENTIAL LEARNING
-                    │
-             ┌──────┴──────┐
-             ▼             ▼
-        PREDICTION     UNCERTAINTY
+                   │
+                   ▼
+         EVIDENTIAL LEARNING
+              ┌────┴────┐
+              ▼         ▼
+        PREDICTION  UNCERTAINTY
 ```
 
-### Research interests
+### Current research interests
 
-`Evidential Deep Learning` · `Knowledge Distillation` · `Spatio-Temporal ML` · `Multimodal Learning` · `Efficient Inference`
+`Evidential Deep Learning`
+
+`Knowledge Distillation`
+
+`Spatio-Temporal Modeling`
+
+`Multimodal Learning`
+
+`Efficient Inference`
+
+`Uncertainty Estimation`
 
 ---
 
@@ -317,30 +313,28 @@ The core research direction is building **efficient, uncertainty-aware predictio
 
 Worked on applied ML and data-driven solutions for manufacturing environments.
 
-### Engineering Contributions
-
-* Predictive maintenance using **MCMC, RQA, and FFT**
-* Real-time vibration analysis and anomaly detection
-* Equipment health monitoring pipelines
+* Predictive maintenance using **MCMC, RQA and FFT**
+* Real-time vibration analysis
+* Equipment anomaly detection
+* Asset health monitoring
 * Neural-network-based inventory optimization
-* Statistical and ML techniques for manufacturing process improvement
+* Statistical modeling for manufacturing processes
 
 ```text
 Manufacturing Data
-       │
-       ▼
-Signal Processing
-  FFT / RQA
-       │
-       ▼
-Statistical Modeling
-      MCMC
-       │
-       ▼
-ML / Anomaly Detection
-       │
-       ▼
-Failure Prediction
+        │
+        ▼
+ FFT / RQA
+        │
+        ▼
+ Statistical Modeling
+       MCMC
+        │
+        ▼
+ Anomaly Detection
+        │
+        ▼
+ Failure Prediction
 ```
 
 ---
@@ -349,11 +343,11 @@ Failure Prediction
 
 **2024 – Present**
 
-* Applied AI and emerging technology research
-* AI/ML proof-of-concept development
-* Computer vision experimentation
-* Machine learning research
-* Experimental system validation
+* Applied AI research
+* Computer vision
+* ML prototypes
+* Experimental systems
+* Emerging technologies
 
 ---
 
@@ -361,15 +355,17 @@ Failure Prediction
 
 **2026**
 
-Exploring computer vision systems and CNN-based approaches within industry-oriented development.
+Exploring computer vision systems and CNN-based approaches for industry-oriented development.
 
 ---
 
-# ☁️ Cloud & MLOps
+# ☁️ Google Cloud & MLOps
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google%20Cloud-Professional%20Machine%20Learning%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/Google%20Cloud-Professional%20Machine%20Learning%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"
+/>
 
 <br><br>
 
@@ -391,7 +387,7 @@ Exploring computer vision systems and CNN-based approaches within industry-orien
 # 📜 Certifications
 
 | Certification                                                     | Issuer             | Period              |
-| :---------------------------------------------------------------- | :----------------- | :------------------ |
+| ----------------------------------------------------------------- | ------------------ | ------------------- |
 | **Professional Machine Learning Engineer**                        | Google Cloud       | Mar 2026 – Mar 2028 |
 | **Professional Certificate in Data Science & Big Data Analytics** | Dr. Ganesh Academy | Jan 2026            |
 
@@ -404,11 +400,25 @@ Exploring computer vision systems and CNN-based approaches within industry-orien
 
 <br>
 
-`Neural Networks` `Predictive Analytics` `Anomaly Detection`
+`Neural Networks`
 
-`MCMC` `RQA` `FFT` `Genetic Algorithms`
+`Predictive Analytics`
 
-`Optimization` `Applied ML` `Computer Vision` `OCR`
+`Anomaly Detection`
+
+`Optimization`
+
+`MCMC`
+
+`RQA`
+
+`FFT`
+
+`Genetic Algorithms`
+
+`Computer Vision`
+
+`OCR`
 
 </details>
 
@@ -427,7 +437,7 @@ PREPROCESSING
 DETECTION
  ┌────┼──────────┐
  ▼    ▼          ▼
-OBJECT FACE    PLATE
+OBJECT FACE     PLATE
 DETECT TRACK    DETECT
  └────┼──────────┘
       ▼
@@ -437,7 +447,7 @@ OCR / INFERENCE
 POST-PROCESSING
       │
       ▼
-REAL-TIME APPLICATION
+REAL-TIME SYSTEM
 ```
 
 </details>
@@ -447,11 +457,17 @@ REAL-TIME APPLICATION
 
 <br>
 
-`Python` `Pandas` `NumPy` `SQL` `Jupyter`
+`Python` `Pandas` `NumPy` `SQL`
 
-`Databricks` `Statistics` `Feature Engineering`
+`Jupyter` `Databricks`
 
-`Big Data Analytics` `Real-Time Data Pipelines`
+`Statistics`
+
+`Feature Engineering`
+
+`Big Data Analytics`
+
+`Real-Time Pipelines`
 
 </details>
 
@@ -460,11 +476,23 @@ REAL-TIME APPLICATION
 
 <br>
 
-`Google Cloud` `Vertex AI` `Docker` `Linux`
+`Google Cloud`
 
-`ML Workflows` `Model Deployment` `Model Monitoring`
+`Vertex AI`
 
-`Scalable ML Architecture` `Git` `GitHub`
+`Docker`
+
+`Linux`
+
+`Git`
+
+`GitHub`
+
+`ML Workflows`
+
+`Model Deployment`
+
+`Model Monitoring`
 
 </details>
 
@@ -489,7 +517,7 @@ REAL-TIME APPLICATION
 
 ---
 
-# 🏆 Leadership & Community
+# 🏆 Leadership
 
 ## TechSaavy Tech Club — Easwari Engineering College
 
@@ -498,29 +526,29 @@ REAL-TIME APPLICATION
 * Technical leadership within the IT department
 * Organized technical events and hackathons
 * Mentored **150+ students**
-* Helped scale technical community participation to **500+ attendees**
-* Conducted AI, ML, data science, and emerging technology workshops
+* Helped scale participation to **500+ attendees**
+* Conducted AI / ML / Data Science workshops
 
 ### DEV ARENA 2025
 
 ```text
-              TECHSAAVY CLUB
-                     +
-                  TVS NEXT
-                     │
-                     ▼
-             ┌───────────────┐
-             │ DEV ARENA 2025│
-             ├───────────────┤
-             │ 500+ People   │
-             │ 100+ Teams    │
-             │ National Event│
-             └───────────────┘
+             TECHSAAVY CLUB
+                    +
+                 TVS NEXT
+                    │
+                    ▼
+          ┌──────────────────┐
+          │   DEV ARENA 2025 │
+          ├──────────────────┤
+          │ 500+ Participants│
+          │ 100+ Teams       │
+          │ National Event   │
+          └──────────────────┘
 ```
 
 ---
 
-# 🎤 Speaking & Mentorship
+# 🎤 Speaking & Community
 
 ### umagineTN 2026
 
@@ -528,7 +556,13 @@ Presented a data science solution based on a real-world industry use case at **C
 
 ### Technical Mentorship
 
-`Machine Learning` · `AI Fundamentals` · `Project Development` · `Technical Execution`
+`Machine Learning`
+
+`AI Fundamentals`
+
+`Project Development`
+
+`Technical Execution`
 
 ---
 
@@ -537,7 +571,7 @@ Presented a data science solution based on a real-world industry use case at **C
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Gowtham007-M&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1"
+src="https://github-readme-stats.vercel.app/api?username=Gowtham007-M&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&ring_color=22D3EE"
 height="175"
 alt="GitHub Stats"
 />
@@ -548,7 +582,7 @@ height="175"
 alt="Top Languages"
 />
 
-<br>
+<br><br>
 
 <img
 src="https://streak-stats.demolab.com/?user=Gowtham007-M&hide_border=true&background=00000000&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8"
@@ -560,12 +594,51 @@ alt="GitHub Streak"
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+### `WATCH MY CONTRIBUTIONS COME ALIVE`
+
+<br>
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Gowtham007-M/Gowtham007-M/output/github-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Gowtham007-M/Gowtham007-M/output/github-snake.svg"
+/>
+
+<img
+src="https://raw.githubusercontent.com/Gowtham007-M/Gowtham007-M/output/github-snake.svg"
+width="100%"
+alt="GitHub Contribution Snake"
+/>
+
+</picture>
+
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=600&height=35&lines=Commit.+Push.+Repeat.;Every+contribution+counts.;Keep+building."
+alt="Contribution animation"
+/>
+
+</div>
+
+---
+
 # 📈 Contribution Activity
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Gowtham007-M&bg_color=00000000&color=CBD5E1&line=22D3EE&point=06B6D4&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Gowtham007-M&bg_color=00000000&color=CBD5E1&line=22D3EE&point=06B6D4&area=true&hide_border=true&custom_title=Gowtham%20M%20-%20Contribution%20Activity"
 width="100%"
 alt="GitHub Contribution Activity"
 />
@@ -574,76 +647,82 @@ alt="GitHub Contribution Activity"
 
 ---
 
-# 🧭 Engineering Philosophy
+# 🧩 Engineering Philosophy
+
+<div align="center">
 
 ```text
-       DON'T JUST TRAIN
-              │
-              ▼
-       UNDERSTAND THE DATA
-              │
-              ▼
-        BUILD THE MODEL
-              │
-              ▼
-       TEST THE ASSUMPTIONS
-              │
-              ▼
-        MEASURE RESULTS
-              │
-              ▼
-        BUILD THE SYSTEM
-              │
-              ▼
-          DEPLOY IT
-              │
-              ▼
-        MAKE IT USEFUL
+             DON'T JUST TRAIN
+                    │
+                    ▼
+             UNDERSTAND DATA
+                    │
+                    ▼
+              BUILD MODEL
+                    │
+                    ▼
+            TEST ASSUMPTIONS
+                    │
+                    ▼
+             MEASURE RESULT
+                    │
+                    ▼
+             BUILD SYSTEM
+                    │
+                    ▼
+                DEPLOY
+                    │
+                    ▼
+              MAKE USEFUL
 ```
 
-### My approach
+</div>
 
-**01 — Understand**
+### `01 — Understand`
 
 Start with the problem, constraints, data, and measurable outcome.
 
-**02 — Experiment**
+### `02 — Experiment`
 
 Test hypotheses before committing to an architecture.
 
-**03 — Engineer**
+### `03 — Engineer`
 
-A model is only one component. Focus on pipelines, latency, reliability, integration, and usability.
+Focus on pipelines, latency, reliability, integration, and usability.
 
-**04 — Deploy**
+### `04 — Deploy`
 
 Move from:
 
-`Notebook → Application → Real-World System`
+```text
+NOTEBOOK → APPLICATION → REAL-WORLD SYSTEM
+```
 
-**05 — Iterate**
+### `05 — Iterate`
 
-Measure → identify failure modes → improve → repeat.
+```text
+MEASURE → FIND FAILURE → IMPROVE → REPEAT
+```
 
 ---
 
-# 🔗 Where Everything Connects
+# 🔗 Where Everything Intersects
 
 <div align="center">
 
 ```text
                     MACHINE LEARNING
                            │
-            ┌──────────────┼──────────────┐
-            ▼              ▼              ▼
-     COMPUTER VISION   DATA SCIENCE     CLOUD ML
-            │              │              │
-            └──────────────┼──────────────┘
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+      COMPUTER VISION  DATA SCIENCE   CLOUD ML
+             │             │             │
+             └─────────────┼─────────────┘
                            ▼
-                     REAL-TIME AI
+                      REAL-TIME AI
                            │
                            ▼
-                    EDGE / IoT
+                       EDGE / IoT
                            │
                            ▼
                   REAL-WORLD SYSTEMS
@@ -651,7 +730,7 @@ Measure → identify failure modes → improve → repeat.
 
 </div>
 
-> The interesting problems are usually the ones that cross **multiple engineering domains**.
+> The most interesting engineering problems live at the intersection of multiple domains.
 
 ---
 
@@ -659,13 +738,18 @@ Measure → identify failure modes → improve → repeat.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Evidential+Deep+Learning;Knowledge+Distillation;Spatio-Temporal+Modeling;Cloud+ML+%2F+MLOps;Real-Time+AI;Edge+Intelligence;Data+Engineering" alt="Current focus"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2100&pause=650&color=22D3EE&center=true&vCenter=true&width=800&height=45&lines=Evidential+Deep+Learning;Knowledge+Distillation;Spatio-Temporal+Modeling;Cloud+ML+%2F+MLOps;Real-Time+AI;Edge+Intelligence;Data+Engineering"
+alt="Current focus"
+/>
 
 </div>
 
 ---
 
 # 📬 Let's Connect
+
+<div align="center">
 
 If you're working on:
 
@@ -675,29 +759,31 @@ If you're working on:
 
 `IoT / Edge Intelligence` · `Applied Research`
 
-Let's build something useful.
+<br>
 
-<div align="center">
+**Let's build something useful.**
+
+<br>
 
 <a href="mailto:40eecgowtham@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/gowtham-off">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://off-portfolio-lemon.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Gowtham007-M">
-  <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Gowtham007-M&label=PROFILE%20VIEWS&color=22D3EE&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Gowtham007-M&label=PROFILE%20VIEWS&color=22D3EE&style=flat-square"/>
 
 </div>
 
@@ -707,8 +793,10 @@ Let's build something useful.
 
 ### `BUILD → MEASURE → LEARN → REPEAT`
 
+<br>
+
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:0B0F14&height=140&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:05070A&height=150&section=footer"
 width="100%"
 alt="Footer"
 />
