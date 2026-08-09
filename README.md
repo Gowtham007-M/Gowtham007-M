@@ -87,7 +87,7 @@ class GowthamM:
         "Contributing to technical research",
         "Leading technical communities"
     ]
-````
+```
 
 > **Turning data, vision, and machine learning into systems that feel precise, fast, and useful.**
 
@@ -587,7 +587,7 @@ Mentored students in:
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Gowtham007-M&show_icons=true&hide_border=true&bg_color=0D2818&title_color=E8B04B&icon_color=C17A3E&text_color=EDEAE0&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Gowtham007-M&show_icons=true&hide_border=true&bg_color=0D2818&title_color=E8B04B&icon_color=C17A3E&text_color=EDEAE0" 
     height="170" 
     alt="Gowtham GitHub Stats" 
   />
@@ -610,10 +610,21 @@ Mentored students in:
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gowtham007-M/Gowtham007-M/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gowtham007-M/Gowtham007-M/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Gowtham007-M/Gowtham007-M/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
 
 </div>
 
