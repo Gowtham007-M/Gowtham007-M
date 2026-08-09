@@ -75,25 +75,6 @@ Final-year IT student who gets the same rush from a clean Python fix as from a c
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
 
-<br>
-
-## Featured Project
-
-### VendorVibe — B2B marketplace, built in 48 hours
-Full-stack marketplace shipped end-to-end during the TuteDude hackathon: separate vendor and supplier dashboards, live order tracking, and pricing logic that adjusts itself for bulk orders.
-
-- Real-time order tracking & notifications over **Socket.IO**
-- Role-based authentication with **JWT**
-- KYC document upload flow for suppliers
-- Automatic bulk-discount pricing
-- Order analytics and filtering dashboard
-
-**Stack:** React.js · Node.js · MongoDB · Socket.IO · JWT
-**Built with:** Hariharan Sriram, Charu S M, V Gokul, Glory Shanjana
-
-[View repo →](#)
-
-<br>
 
 ## Experience
 
