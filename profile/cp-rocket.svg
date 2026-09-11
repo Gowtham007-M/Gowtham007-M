@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="100%" height="130" role="img" aria-label="Neon rocket flying with flickering flame and smoke trail">
+  <defs>
+    <linearGradient id="cpr-nose" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <filter id="cpr-glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="130" fill="#05070A"/>
+
+  <g fill="#22D3EE">
+    <circle cx="90" cy="30" r="1.2"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="100" r="1"><animate attributeName="opacity" values="0.8;0.15;0.8" dur="3.1s" repeatCount="indefinite" begin="0.7s"/></circle>
+    <circle cx="430" cy="42" r="1.3"><animate attributeName="opacity" values="0.15;0.85;0.15" dur="2.8s" repeatCount="indefinite" begin="0.4s"/></circle>
+    <circle cx="610" cy="90" r="1"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="3.4s" repeatCount="indefinite" begin="1.2s"/></circle>
+    <circle cx="780" cy="28" r="1.2"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="2.6s" repeatCount="indefinite" begin="0.2s"/></circle>
+    <circle cx="350" cy="18" r="1"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.6s" repeatCount="indefinite" begin="1.5s"/></circle>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;940 0;940 0;0 0" keyTimes="0;0.45;0.55;1" dur="11s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="1.3s" repeatCount="indefinite"/>
+      <g transform="rotate(-4)">
+
+        <g filter="url(#cpr-glow)">
+          <ellipse cx="-40" cy="4" rx="3" ry="3" fill="#475569">
+            <animate attributeName="cx" values="-40;-140" dur="2s" repeatCount="indefinite"/>
+            <animate attributeName="cy" values="4;16" dur="2s" repeatCount="indefinite"/>
+            <animate attributeName="r" values="3;12" dur="2s" repeatCount="indefinite"/>
+            <animate attributeName="opacity" values="0.5;0" dur="2s" repeatCount="indefinite"/>
+          </ellipse>
+          <ellipse cx="-54" cy="-2" rx="3" ry="3" fill="#334155">
+            <animate attributeName="cx" values="-54;-154" dur="2s" repeatCount="indefinite" begin="-0.7s"/>
+            <animate attributeName="cy" values="-2;-12" dur="2s" repeatCount="indefinite" begin="-0.7s"/>
+            <animate attributeName="r" values="3;11" dur="2s" repeatCount="indefinite" begin="-0.7s"/>
+            <animate attributeName="opacity" values="0.5;0" dur="2s" repeatCount="indefinite" begin="-0.7s"/>
+          </ellipse>
+          <ellipse cx="-48" cy="0" rx="3" ry="3" fill="#1E293B">
+            <animate attributeName="cx" values="-48;-148" dur="2s" repeatCount="indefinite" begin="-1.4s"/>
+            <animate attributeName="cy" values="0;6" dur="2s" repeatCount="indefinite" begin="-1.4s"/>
+            <animate attributeName="r" values="3;13" dur="2s" repeatCount="indefinite" begin="-1.4s"/>
+            <animate attributeName="opacity" values="0.5;0" dur="2s" repeatCount="indefinite" begin="-1.4s"/>
+          </ellipse>
+        </g>
+
+        <g transform="translate(-30 0)">
+          <g>
+            <animateTransform attributeName="transform" type="scale" values="1 1;1 1.3;1 0.85;1 1" dur="0.2s" repeatCount="indefinite"/>
+            <path d="M0,0 L-34,-7 L-42,0 L-34,7 Z" fill="#06B6D4" opacity="0.9"/>
+            <path d="M0,0 L-28,-4 L-34,0 L-28,4 Z" fill="#F472B6"/>
+            <path d="M0,0 L-20,-2 L-24,0 L-20,2 Z" fill="#FFFFFF"/>
+          </g>
+        </g>
+
+        <g filter="url(#cpr-glow)">
+          <rect x="-30" y="-12" width="52" height="24" rx="7" fill="#0F172A" stroke="#475569" stroke-width="1.5"/>
+          <polygon points="22,-11 48,0 22,11" fill="url(#cpr-nose)" stroke="#06B6D4" stroke-width="1"/>
+          <polygon points="2,-12 14,-26 22,-12" fill="#F472B6"/>
+          <polygon points="2,12 14,26 22,12" fill="#F472B6"/>
+          <line x1="-28" y1="8" x2="20" y2="8" stroke="#22D3EE" stroke-width="2" opacity="0.8"/>
+          <circle cx="6" cy="0" r="6.5" fill="#05070A" stroke="#22D3EE" stroke-width="1.5"/>
+          <circle cx="6" cy="0" r="2.2" fill="#22D3EE">
+            <animate attributeName="r" values="1.8;3;1.8" dur="1.4s" repeatCount="indefinite"/>
+          </circle>
+        </g>
+
+      </g>
+    </g>
+  </g>
+
+  <line x1="0" y1="120" x2="900" y2="120" stroke="#22D3EE" stroke-width="1" stroke-dasharray="8 10" opacity="0.3">
+    <animate attributeName="stroke-dashoffset" values="0;-36" dur="1.6s" repeatCount="indefinite"/>
+  </line>
+</svg>

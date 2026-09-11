@@ -7,7 +7,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,35:0F172A,65:164E63,100:06B6D4&height=280&section=header&text=GOWTHAM%20M&fontSize=62&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=MACHINE%20LEARNING%20%7C%20COMPUTER%20VISION%20%7C%20AI%20ENGINEERING&descAlignY=59&descSize=16&descColor=BAE6FD"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,35:0F172A,65:164E63,100:06B6D4&height=280&section=header&text=GOWTHAM%20M&fontSize=62&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=MACHINE%20LEARNING%20%7C%20COMPUTER%20VISION%20%7C%20AI%20ENGINEERING&descAlignY=59&descSize=16&descColor=BAE6FD"
 width="100%"
 alt="Gowtham M"
 />
@@ -26,15 +26,6 @@ alt="Typing animation"
 />
 
 <br><br>
-
-<img
-src="profile/cp-fish.svg"
-width="100%"
-height="110"
-alt="Neon cyber-fish"
-/>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -134,13 +125,6 @@ alt="Technology Stack"
 
 </div>
 
-<img
-src="profile/cp-neural.svg"
-width="100%"
-height="130"
-alt="Animated neural network"
-/>
-
 ---
 
 # 🧠 What I Build
@@ -175,39 +159,9 @@ alt="Animated neural network"
 └──────────────────────────────────────────────┘
 ```
 
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=750&height=40&lines=%3E+TRAIN+%E2%86%92+VALIDATE+%E2%86%92+OPTIMIZE;%3E+API+%E2%86%92+APPLICATION+%E2%86%92+INFERENCE;%3E+CLOUD+%E2%86%92+EDGE+%E2%86%92+PRODUCTION"
-alt="Pipeline typing animation"
-/>
-
-</div>
-
 **The model is not the final product. The system is.**
 
-<div align="center">
-
-<img
-src="profile/cp-aurora.svg"
-width="100%"
-height="110"
-alt="Animated aurora gradient"
-/>
-
-</div>
-
 ---
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=shark&color=0:05070A,100:06B6D4&height=130&section=header"
-width="100%"
-alt="Neon shark divider"
-/>
-
-</div>
 
 # 🚀 Featured Projects
 
@@ -334,15 +288,6 @@ My research direction focuses on **efficient prediction + uncertainty estimation
               ▼         ▼
         PREDICTION  UNCERTAINTY
 ```
-
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=700&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=%3E+PREDICTION+%2B+UNCERTAINTY+IN+ONE+PASS;%3E+EFFICIENT+%7C+AMBITIOUS+%7C+DEFENSIBLE"
-alt="Research typing animation"
-/>
-
-</div>
 
 ### Current research interests
 
@@ -626,13 +571,13 @@ Presented a data science solution based on a real-world industry use case at **C
 <div align="center">
 
 <img
-src="profile/stats.svg"
+src="https://github-readme-stats.vercel.app/api?username=Gowtham007-M&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&ring_color=22D3EE"
 height="175"
 alt="GitHub Stats"
 />
 
 <img
-src="profile/top-langs.svg"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham007-M&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=CBD5E1&langs_count=8"
 height="175"
 alt="Top Languages"
 />
@@ -643,15 +588,6 @@ alt="Top Languages"
 src="https://streak-stats.demolab.com/?user=Gowtham007-M&hide_border=true&background=00000000&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8"
 height="180"
 alt="GitHub Streak"
-/>
-
-<br>
-
-<img
-src="profile/cp-puppy.svg"
-width="240"
-height="203"
-alt="Cyber pup"
 />
 
 </div>
@@ -807,25 +743,9 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=1
 alt="Current focus"
 />
 
-<br>
-
-<img
-src="profile/cp-butterfly.svg"
-width="100%"
-height="140"
-alt="Holographic neon butterfly"
-/>
-
 </div>
 
 ---
-
-<img
-src="profile/cp-rocket.svg"
-width="100%"
-height="130"
-alt="Neon rocket"
-/>
 
 # 📬 Let's Connect
 
@@ -876,7 +796,7 @@ If you're working on:
 <br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:05070A&height=150&section=footer&animation=twinkling"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:05070A&height=150&section=footer"
 width="100%"
 alt="Footer"
 />

@@ -21,30 +21,17 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >
-            username=${{ github.repository_owner }}
-            &show_icons=true
-            &hide_border=true
-            &theme=transparent
-            &title_color=22D3EE
-            &icon_color=22D3EE
-            &text_color=CBD5E1
-            &ring_color=22D3EE
+          options: '{"username":"${{ github.repository_owner }}","show_icons":true,"hide_border":true,"theme":"transparent","title_color":"22D3EE","icon_color":"22D3EE","text_color":"CBD5E1","ring_color":"22D3EE"}'
           path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >
-            username=${{ github.repository_owner }}
-            &layout=compact
-            &hide_border=true
-            &theme=transparent
-            &title_color=22D3EE
-            &text_color=CBD5E1
-            &langs_count=8
+          options: '{"username":"${{ github.repository_owner }}","layout":"compact","hide_border":true,"theme":"transparent","title_color":"22D3EE","text_color":"CBD5E1","langs_count":8}'
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated files
         run: |
