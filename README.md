@@ -702,7 +702,7 @@ alt="Contribution animation"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Gowtham007-M&bg_color=00000000&color=CBD5E1&line=22D3EE&point=06B6D4&area=true&hide_border=true&custom_title=Gowtham%20M%20-%20Contribution%20Activity"
+src="profile-3d-contrib/profile-night-green.svg"
 width="100%"
 alt="GitHub Contribution Activity"
 />
